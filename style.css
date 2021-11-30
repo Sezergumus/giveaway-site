@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;500&display=swap');
+
+.names, .winner{
+    text-align: center;
+}
+
+.background{
+    position: absolute;
+    top: 40%;
+}
+
+span{
+    font-size: 1.5rem;
+}
+
+.winner{
+    font-size: 2.5rem;
+}
+
+h1, h3{
+    font-family: 'Monsterrat', sans-serif;
+    font-weight: 600 !important;
+    color: #323d47;
+    letter-spacing: -1px;
+    line-height: 1.5;
+    margin: 0;
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    color: #757575;
+    font-size: 1.125rem !important;
+}
+
+label{
+    line-height: 1.9;
+    color: #757575;
+    text-align: left;
+    font-weight: 400;
+    font-size: 13px;
+    letter-spacing: .5px;
+    margin-bottom: 4px;
+}
+
+
+.form, .background{
+    background-color: #e9ecf0 !important; 
+    padding: 2rem !important;
+}
+
+.form-group, .row{
+    margin-bottom: 1rem;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #3cd458;
+    border-color: #3cd458;
+    display: block;
+    width: 100%;
+    letter-spacing: 1.7px;
+    text-transform: uppercase;
+    border-radius: 2px;
+    outline: none;
+    transition: 0.15s linear;
+    padding: 7px 32px 6px;
+    font-size: 12px;
+    line-height: 2.2;
+}
+
+.header{
+    padding-top: 100px;
+    padding-bottom: 46px;
+}
+
+.hide{
+    display: none;
+}
